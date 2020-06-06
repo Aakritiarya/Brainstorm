@@ -38,7 +38,7 @@ https://youtu.be/lNbxE8NyPNI
 
 ## Long description
 
-[More detail is available here](Description.md)
+[More details are available here](Description.md)
 
 ## Getting started
 

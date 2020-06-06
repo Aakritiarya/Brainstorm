@@ -1,2 +1,2 @@
 # Brainstorm
-BrainStorm app by Man Ki Shanthi team - WIT
+Brainstorm app by Man Ki Shanti team - WIT

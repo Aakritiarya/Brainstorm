@@ -50,7 +50,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Running the tests
 
--- add
+To view the php files, you will need to create a local server to host the web application on along with creating a way to view the php files.Any HTML page with CSS (and javascript) can be edited and viewed in any browser without any special tool. You just open a file with your browser to view it and use any editor to edit your HTML file. But as soon as you use PHP and mysql (which work from the server side), you need a tool to make it work locally.
+
+XAMPP (XAMPP stands for Cross-Platform (X), Apache (A), MariaDB (M), PHP (P) and Perl (P).) allows you to work on a local server and test a local copy of websites using PHP code and MySQL databases. Once XAMPP is active, you can access your local copy with a browser using an url like http://localhost/ or http://127.0.0.1/. It is also cross-platform, which means it works equally well on Linux, Mac and Windows. Since most actual web server deployments use the same components as XAMPP, it makes transitioning from a local test server to a live server extremely easy as well.
+
+For instructions to install XAMPP, you can refer to the links below:
+https://www.ionos.com/digitalguide/server/tools/xampp-tutorial-create-your-own-local-test-server/
+https://pureinfotech.com/install-xampp-windows-10/
+
+Following the steps and adding the files under the htdocs folder in xampp and accessing through the localhost, you can test the code.
 
 ## Built with
 

@@ -26,7 +26,8 @@ Since the boom of social networking sites, we all have found a way to stay in to
 As Glenn Close said “What mental health needs is more sunlight, more candor and more unashamed conversations”. Hence, we try to bring our people an app that would help them have those candor conversations, a community without judgements and above all a community that understands. IBM has given us this opportunity to make an impact that matters by letting us harness its services like Watson
 
 ## Demo video
-
+Watch the demo video here:
+https://youtu.be/lNbxE8NyPNI
 ## The architecture
 
 ![Architecture](Architecture_New.png)
